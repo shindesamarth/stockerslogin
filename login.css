@@ -17,8 +17,8 @@ body {
     position: relative;
     top:175px;
     left:400px;
-    
-    height:70vh;
+    margin-bottom:300px;
+    height:75vh;
     width:45vw;
     /* background-color: #3b3e5e; */
     background: linear-gradient(#141e30, #243b55);
@@ -102,6 +102,7 @@ label {
 }
 .password_user {
     margin-top: 20px;
+    display:flex;
 }
 .login_button{
     width:180px;
